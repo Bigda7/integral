@@ -1,0 +1,16 @@
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\bin\Debug\net8.0-windows\Lichobeznik.exe
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\bin\Debug\net8.0-windows\Lichobeznik.deps.json
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\bin\Debug\net8.0-windows\Lichobeznik.runtimeconfig.json
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\bin\Debug\net8.0-windows\Lichobeznik.dll
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\bin\Debug\net8.0-windows\Lichobeznik.pdb
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.Form1.resources
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.vbproj.GenerateResource.cache
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.AssemblyInfoInputs.cache
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.AssemblyInfo.vb
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.vbproj.CoreCompileInputs.cache
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.dll
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\refint\Lichobeznik.dll
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.pdb
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\Lichobeznik.genruntimeconfig.cache
+C:\Users\Bigda\Desktop\Project_Lichobeznik\Lichobeznik\obj\Debug\net8.0-windows\ref\Lichobeznik.dll
