@@ -99,7 +99,7 @@ Public Class Form1
 
         If saveFileDialog.ShowDialog() = DialogResult.OK Then
             Try
-                Using writer As New StreamWriter(saveFileDialog.FileName)
+                Using writer As New StreamWriter(saveFileDialog.FileName, True)
                     For Each item In ListBox1.Items
                         writer.WriteLine(item.ToString())
                     Next
